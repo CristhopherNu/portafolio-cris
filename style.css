@@ -1,0 +1,125 @@
+
+/*
+.navbar {
+  background-color: blue; /* Cambia blue al color que desees */
+  /*border-bottom: 1px solid black;
+}
+/*
+
+.navbar-brand {
+  font-size: 1.5rem; 
+  color: black; 
+}
+
+.navbar-nav .nav-link {
+  color: black; 
+}
+
+.navbar-nav .nav-link:hover {
+  color: black; 
+}
+
+
+#about {
+  background-color: #f8f9fa; 
+  padding: 50px 0; 
+}
+#about header {
+  margin-bottom: 30px; 
+}
+
+#about h1 {
+  font-size: 2 rem ,2rem; 
+  margin-bottom: 20px; 
+}
+
+#about p {
+  font-size: 1.1rem , 2 rem; 
+  line-height: 1.6; 
+}
+
+
+#portfolio {
+  padding: 50px 0; 
+}
+
+#portfolio h1 {
+  font-size: 2rem; 
+  margin-bottom: 20px; 
+}
+
+#portfolio p {
+  font-size: 1.1rem; 
+  line-height: 1.6; 
+}
+
+
+#contact {
+  background-color: #ffffff; 
+  padding: 50px 0; 
+}
+
+#contact h1 {
+  font-size: 2rem; 
+  margin-bottom: 20px; 
+}
+
+#contact p {
+  font-size: 1.1rem; 
+  line-height: 1.6; 
+}
+
+
+#redes-sociales {
+  margin-top: 20px; 
+}
+
+#redes-sociales h2 {
+  font-size: 1.5rem; 
+}
+
+#redes-sociales ul {
+  list-style-type: none; 
+  padding: 0; 
+}
+
+#redes-sociales ul li {
+  margin-bottom: 10px; 
+}
+
+#redes-sociales ul li img {
+  width: 40px;
+  height: auto; 
+  margin-right: 10px; 
+}
+
+#redes-sociales ul li a {
+  text-decoration: none; 
+  color: #007bff; 
+  display: inline-block; 
+}
+
+#redes-sociales ul li a:hover {
+  text-decoration: underline; 
+}
+.social-container {
+  text-align: center;
+}
+
+.social-container ul {
+  list-style: none;
+  padding: 0;
+}
+
+.social-container ul li {
+  display: inline-block;
+  margin: 0 10px; 
+}
+*/
+
+@import "/navbar.css";
+@import "/about.css";
+@import "/portfolio.css";
+@import "/contact.css";
+@import "/redes-sociales.css";
+@import "/social-container.css";

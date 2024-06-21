@@ -1,0 +1,17 @@
+.navbar {
+    background-color: blue; /* Cambia blue al color que desees */
+    border-bottom: 1px solid black;
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+    color: black;
+  }
+  
+  .navbar-nav .nav-link {
+    color: black;
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: black;
+  }

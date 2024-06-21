@@ -1,0 +1,33 @@
+#redes-sociales {
+    margin-top: 20px;
+  }
+  
+  #redes-sociales h2 {
+    font-size: 1.5rem;
+  }
+  
+  #redes-sociales ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #redes-sociales ul li {
+    margin-bottom: 10px;
+  }
+  
+  #redes-sociales ul li img {
+    width: 40px;
+    height: auto;
+    margin-right: 10px;
+  }
+  
+  #redes-sociales ul li a {
+    text-decoration: none;
+    color: #007bff;
+    display: inline-block;
+  }
+  
+  #redes-sociales ul li a:hover {
+    text-decoration: underline;
+  }
+  

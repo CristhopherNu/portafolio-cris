@@ -1,0 +1,15 @@
+#contact {
+    background-color: #ffffff;
+    padding: 50px 0;
+  }
+  
+  #contact h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  #contact p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+  }
+  

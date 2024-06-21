@@ -1,0 +1,19 @@
+#about {
+    background-color: #f8f9fa;
+    padding: 50px 0;
+  }
+  
+  #about header {
+    margin-bottom: 30px;
+  }
+  
+  #about h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  #about p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+  }
+  

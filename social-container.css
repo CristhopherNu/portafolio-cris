@@ -1,0 +1,14 @@
+.social-container {
+    text-align: center;
+  }
+  
+  .social-container ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .social-container ul li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+  
